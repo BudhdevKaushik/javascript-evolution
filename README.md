@@ -28,19 +28,16 @@ Each file in this repository corresponds to a specific ECMAScript version, follo
 ## 📚 How to Use This Repository
 
 ### Browsing Versions
-
 1. Navigate through the repository files numbered sequentially (ES01, ES02, ES03, etc.)
 2. Each file name corresponds to an ECMAScript version
 3. Open any file to learn about the features introduced in that specific version
 
 ### Learning Path
-
 - **Beginners**: Start from ES01 and work your way up to understand JavaScript's progression
 - **Reference Guide**: Jump directly to any version you're interested in
 - **Comparison**: Compare adjacent versions to see incremental changes
 
 ### Complementary Resources
-
 For a complete narrative and detailed explanations, read the accompanying blog post on Medium (link above), which provides additional context and insights into ECMAScript's evolution.
 
 ## 🚀 Quick Start
@@ -53,7 +50,7 @@ If you find any inaccuracies or would like to suggest improvements, feel free to
 
 ## 📝 License
 
-[Add your license here]
+MIT License
 
 ---
 
@@ -66,4 +63,4 @@ If you find any inaccuracies or would like to suggest improvements, feel free to
 
 ---
 
-⭐ If you find this repository helpful, please consider giving it a star and sharing it with others learning about JavaScript's evolution!
+⭐ If you find this repository helpful, please consider giving it a star and sharing it with others learning about JavaScript.
